@@ -20,8 +20,6 @@ Project ini membantu tim QA dalam:
 
 ## 🧩 **Struktur Repository**
 
-*(contoh struktur umum, nanti bisa disesuaikan jika ada file tambahan)*
-
 ```bash
 Tro-Ben-Task/
 ├── Flowchart.png                  # Diagram alur proses aplikasi
